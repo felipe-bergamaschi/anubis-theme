@@ -1,24 +1,25 @@
 <h1 align="center">
-<img src="./icon.png" alt="Anúbis"><br />
-Anúbis
+   
+   <img src="/icon.png" alt="Anúbis"><br />
+   
+   Anúbis
+
 </h1>
 
 <p align="center">
-Just a preview.
-<img src="https://i.imgur.com/vUQNEXV.png" alt="preview"/></p>
+ 
+   <img src="https://img.shields.io/static/v1?label=Version&message=1.0&color=7159c1&labelColor=000000" alt="PRs welcome!" />
+ 
+   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=7159c1&labelColor=000000">
+
+</p>
+
+<br>
 
 # Overview
 
 A dark theme from Visual Studio Code
 
-- [How to install?](INSTALL.md)
-- [I need a help](#need-help)
-- [License](#license)
-
-# Need help
-
-If you need help with Anúbis, feel free to open an issue with a description of the problem you're facing. Or, if you prefer, you can chat with us on our [Discord Community](https://discordapp.com/invite/gCRAFhc).
-
 # License
 
-MIT © [Anúbis Theme](https://github.com/midisoft/anubis-theme)
+MIT © [Anúbis Theme](https://github.com/Midisoft/anubis-theme-vscode)
